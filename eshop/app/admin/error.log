@@ -1,0 +1,132 @@
+18-12-2024 21:24:21 - require_once(../../core/init.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bookstore-php\eshop\app\admin\save_item_to_catalog.php:2
+18-12-2024 21:24:21 - Failed opening required '../../core/init.php' (include_path='C:\xampp\php\PEAR;core/;app/;app/admin/') in C:\xampp\htdocs\bookstore-php\eshop\app\admin\save_item_to_catalog.php:2
+18-12-2024 21:30:35 - require_once(C:\xampp\htdocs\bookstore-php\eshop\app\admin/../../../core/init.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bookstore-php\eshop\app\admin\save_item_to_catalog.php:2
+18-12-2024 21:30:35 - Failed opening required 'C:\xampp\htdocs\bookstore-php\eshop\app\admin/../../../core/init.php' (include_path='C:\xampp\php\PEAR;core/;app/;app/admin/') in C:\xampp\htdocs\bookstore-php\eshop\app\admin\save_item_to_catalog.php:2
+18-12-2024 21:38:37 - require_once(C:\xampp\htdocs\bookstore-php\eshop\app\admin/../../../core/init.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bookstore-php\eshop\app\admin\save_item_to_catalog.php:2
+18-12-2024 21:38:37 - Failed opening required 'C:\xampp\htdocs\bookstore-php\eshop\app\admin/../../../core/init.php' (include_path='C:\xampp\php\PEAR;core/;app/;app/admin/') in C:\xampp\htdocs\bookstore-php\eshop\app\admin\save_item_to_catalog.php:2
+18-12-2024 21:49:18 - require_once(C:\xampp\htdocs\bookstore-php\eshop\app\admin/../../../core/init.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bookstore-php\eshop\app\admin\save_item_to_catalog.php:2
+18-12-2024 21:49:18 - Failed opening required 'C:\xampp\htdocs\bookstore-php\eshop\app\admin/../../../core/init.php' (include_path='C:\xampp\php\PEAR;core/;app/;app/admin/') in C:\xampp\htdocs\bookstore-php\eshop\app\admin\save_item_to_catalog.php:2
+18-12-2024 22:02:43 - Too few arguments to function Book::__construct(), 0 passed and exactly 4 expected in C:\xampp\htdocs\bookstore-php\eshop\core\Book.class.php:8
+18-12-2024 22:06:51 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:44
+18-12-2024 22:06:51 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:06:51 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:06:51 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:06:51 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:17:44 - syntax error, unexpected double-quoted string " method=", expecting "," or ";" in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:26
+18-12-2024 22:17:45 - syntax error, unexpected double-quoted string " method=", expecting "," or ";" in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:26
+18-12-2024 22:20:05 - syntax error, unexpected identifier "action", expecting "," or ";" in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:26
+18-12-2024 22:20:06 - syntax error, unexpected identifier "action", expecting "," or ";" in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:26
+18-12-2024 22:21:35 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:44
+18-12-2024 22:21:35 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:21:35 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:21:35 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:21:35 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:24:47 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:44
+18-12-2024 22:24:47 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:24:47 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:24:47 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:24:47 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:32:48 - syntax error, unexpected double-quoted string " method=", expecting "," or ";" in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:26
+18-12-2024 22:32:59 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:44
+18-12-2024 22:32:59 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:32:59 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:32:59 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:32:59 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:34:46 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:44
+18-12-2024 22:34:46 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:34:46 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:34:46 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:34:46 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:34:58 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:44
+18-12-2024 22:34:58 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:34:58 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:34:58 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:34:58 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:34:58 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:44
+18-12-2024 22:34:58 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:34:58 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:34:58 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:34:58 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:35:10 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:44
+18-12-2024 22:35:10 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:35:10 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:35:10 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:35:10 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:38:00 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:44
+18-12-2024 22:38:00 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:38:00 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:38:00 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:38:00 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:38:41 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:44
+18-12-2024 22:38:41 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:38:41 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:38:41 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:38:41 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:39:11 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:44
+18-12-2024 22:39:11 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:39:11 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:39:11 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:39:11 - Creation of dynamic property Book::$id is deprecated in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+18-12-2024 22:39:12 - require_once(../core/init.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bookstore-php\eshop\app\add_item_to_basket.php:2
+18-12-2024 22:39:12 - Failed opening required '../core/init.php' (include_path='C:\xampp\php\PEAR;core/;app/;app/admin/') in C:\xampp\htdocs\bookstore-php\eshop\app\add_item_to_basket.php:2
+18-12-2024 22:42:57 - require_once(C:\xampp\htdocs\bookstore-php\eshop\app/app/catalog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bookstore-php\eshop\app\__router.php:16
+18-12-2024 22:42:57 - Failed opening required 'C:\xampp\htdocs\bookstore-php\eshop\app/app/catalog.php' (include_path='C:\xampp\php\PEAR;core/;app/;app/admin/') in C:\xampp\htdocs\bookstore-php\eshop\app\__router.php:16
+18-12-2024 22:42:59 - require_once(C:\xampp\htdocs\bookstore-php\eshop\app/app/catalog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bookstore-php\eshop\app\__router.php:16
+18-12-2024 22:42:59 - Failed opening required 'C:\xampp\htdocs\bookstore-php\eshop\app/app/catalog.php' (include_path='C:\xampp\php\PEAR;core/;app/;app/admin/') in C:\xampp\htdocs\bookstore-php\eshop\app\__router.php:16
+18-12-2024 22:43:00 - require_once(C:\xampp\htdocs\bookstore-php\eshop\app/app/catalog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bookstore-php\eshop\app\__router.php:16
+18-12-2024 22:43:00 - Failed opening required 'C:\xampp\htdocs\bookstore-php\eshop\app/app/catalog.php' (include_path='C:\xampp\php\PEAR;core/;app/;app/admin/') in C:\xampp\htdocs\bookstore-php\eshop\app\__router.php:16
+19-12-2024 00:34:18 - session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bookstore-php\eshop\core\init.php:58
+19-12-2024 00:36:06 - session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bookstore-php\eshop\login.php:4
+19-12-2024 00:36:07 - session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bookstore-php\eshop\login.php:4
+19-12-2024 00:36:12 - session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bookstore-php\eshop\login.php:4
+19-12-2024 00:37:22 - session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bookstore-php\eshop\login.php:4
+19-12-2024 00:37:23 - session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bookstore-php\eshop\login.php:4
+19-12-2024 00:37:25 - session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bookstore-php\eshop\login.php:4
+19-12-2024 00:37:33 - session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bookstore-php\eshop\login.php:4
+19-12-2024 00:37:42 - session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bookstore-php\eshop\login.php:4
+19-12-2024 00:37:42 - Creation of dynamic property User::$login is deprecated in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:102
+19-12-2024 00:38:23 - session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bookstore-php\eshop\login.php:4
+19-12-2024 00:38:23 - Creation of dynamic property User::$login is deprecated in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:102
+19-12-2024 00:38:25 - session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bookstore-php\eshop\login.php:4
+19-12-2024 00:39:49 - session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bookstore-php\eshop\login.php:4
+19-12-2024 00:39:49 - Creation of dynamic property User::$login is deprecated in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:102
+19-12-2024 00:46:14 - session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bookstore-php\eshop\login.php:4
+19-12-2024 00:46:14 - Creation of dynamic property User::$login is deprecated in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:102
+19-12-2024 01:17:58 - require_once(core/Eshop.class.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bookstore-php\eshop\core\init.php:50
+19-12-2024 01:17:58 - Failed opening required 'core/Eshop.class.php' (include_path='C:\xampp\php\PEAR;core/;app/;app/admin/') in C:\xampp\htdocs\bookstore-php\eshop\core\init.php:50
+19-12-2024 01:26:30 - session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bookstore-php\eshop\login.php:4
+19-12-2024 01:26:41 - session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bookstore-php\eshop\login.php:4
+19-12-2024 01:27:04 - session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bookstore-php\eshop\login.php:4
+19-12-2024 01:29:30 - session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bookstore-php\eshop\login.php:4
+19-12-2024 01:30:05 - session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bookstore-php\eshop\login.php:4
+19-12-2024 01:36:37 - session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\bookstore-php\eshop\login.php:4
+20-12-2024 16:04:50 - SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:8
+20-12-2024 16:26:39 - SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:8
+20-12-2024 16:37:43 - SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:8
+20-12-2024 16:40:22 - SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:8
+20-12-2024 23:42:29 - Call to undefined method Eshop::userCheck() in C:\xampp\htdocs\bookstore-php\eshop\login.php:11
+20-12-2024 23:43:05 - Call to undefined method Eshop::userCheck() in C:\xampp\htdocs\bookstore-php\eshop\login.php:11
+20-12-2024 23:43:09 - Call to undefined method Eshop::userCheck() in C:\xampp\htdocs\bookstore-php\eshop\login.php:11
+20-12-2024 23:43:12 - Call to undefined method Eshop::userCheck() in C:\xampp\htdocs\bookstore-php\eshop\login.php:11
+21-12-2024 00:54:17 - SQLSTATE[HY000] [2002] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:7
+21-12-2024 01:16:48 - Call to undefined method Eshop::getOrders() in C:\xampp\htdocs\bookstore-php\eshop\app\admin\orders.php:16
+21-12-2024 01:50:21 - Call to undefined method Eshop::getItemsFromCatalog() in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+21-12-2024 01:50:48 - Call to undefined method Eshop::getItemsFromCatalog() in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+21-12-2024 01:52:19 - Call to undefined method Eshop::getItemsFromCatalog() in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+21-12-2024 01:53:05 - Call to undefined method Eshop::getItemsFromCatalog() in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+21-12-2024 01:54:01 - Call to undefined method Eshop::getItemsFromCatalog() in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+21-12-2024 01:55:14 - Call to undefined method Eshop::getItemsFromCatalog() in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+21-12-2024 01:56:08 - Call to undefined method Eshop::getItemsFromCatalog() in C:\xampp\htdocs\bookstore-php\eshop\app\catalog.php:19
+21-12-2024 01:57:03 - Call to undefined method Eshop::addItemToCatalog() in C:\xampp\htdocs\bookstore-php\eshop\app\admin\save_item_to_catalog.php:13
+21-12-2024 03:00:09 - Too few arguments to function Eshop::saveOrder(), 1 passed in C:\xampp\htdocs\bookstore-php\eshop\app\save_order.php on line 37 and exactly 2 expected in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:48
+21-12-2024 03:01:49 - Too few arguments to function Eshop::saveOrder(), 1 passed in C:\xampp\htdocs\bookstore-php\eshop\app\save_order.php on line 40 and exactly 2 expected in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:48
+21-12-2024 03:10:39 - Call to undefined method Basket::clear() in C:\xampp\htdocs\bookstore-php\eshop\core\Eshop.class.php:78
+21-12-2024 03:23:24 - Undefined array key "created" in C:\xampp\htdocs\bookstore-php\eshop\app\admin\orders.php:24
+21-12-2024 03:23:24 - Undefined array key "created" in C:\xampp\htdocs\bookstore-php\eshop\app\admin\orders.php:24
+21-12-2024 03:23:24 - Undefined array key "created" in C:\xampp\htdocs\bookstore-php\eshop\app\admin\orders.php:24
+21-12-2024 03:23:24 - Undefined array key "created" in C:\xampp\htdocs\bookstore-php\eshop\app\admin\orders.php:24
+21-12-2024 03:23:58 - Undefined array key "created" in C:\xampp\htdocs\bookstore-php\eshop\app\admin\orders.php:24
+21-12-2024 03:23:58 - Undefined array key "created" in C:\xampp\htdocs\bookstore-php\eshop\app\admin\orders.php:24
+21-12-2024 03:23:58 - Undefined array key "created" in C:\xampp\htdocs\bookstore-php\eshop\app\admin\orders.php:24
+21-12-2024 03:23:58 - Undefined array key "created" in C:\xampp\htdocs\bookstore-php\eshop\app\admin\orders.php:24
+21-12-2024 03:23:58 - Undefined array key "created" in C:\xampp\htdocs\bookstore-php\eshop\app\admin\orders.php:24
